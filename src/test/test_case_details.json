@@ -1,0 +1,17 @@
+[
+    {
+        "test_case_name_enum": "com.example.apirouting.MyControllerTests.testgetHomePage"
+    },
+    {
+        "test_case_name_enum": "com.example.apirouting.MyControllerTests.testHomePage"
+    },
+    {
+        "test_case_name_enum": "com.example.apirouting.MyControllerTests.testgetAboutPage"
+    },
+    {
+        "test_case_name_enum": "com.example.apirouting.MyControllerTests.testAboutPage"
+    },
+    {
+        "test_case_name_enum": "com.example.apirouting.SmokeTest.contextLoads"
+    }
+]
